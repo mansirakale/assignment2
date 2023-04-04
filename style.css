@@ -1,0 +1,19 @@
+*{
+	margin: 10;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Lucida Sans;
+
+}
+
+.container{
+	background: linear-gradient(#e66465, #9198e5);
+	min-height: 100vh;
+	border: 5px solid #1d1e4c;
+
+}
+
+img {
+  border-radius: 50%;
+}
+
